@@ -14,9 +14,11 @@ _优势_：
 详细见官方文档
 
 编译安装（推荐）：
+
 https://docs.sylabs.io/guides/3.10/user-guide/quick_start.html
 
-其他二进制安装包:
+其他二进制安装包 :
+
 https://github.com/sylabs/singularity/releases
 
 ##### 2 打包 singularity 镜像
